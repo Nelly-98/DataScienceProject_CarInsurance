@@ -34,3 +34,6 @@ La direction et dans la mesure de la mise en place de l’agilité a décidé d'
 Expliquer la démarche à effectuer. Proposer une architecture de données et l’architecture cloud. 
 
 Implémenter en spark un logiciel qui permet de calculer le prime assurance et une proposition d’un produit d'assurance.
+
+
+Technologies : Spark, Pandas, Numpy, Sklearn
